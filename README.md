@@ -11,6 +11,11 @@ Dependencies:
 
 ## Normalization of single cell RNASeq dataset and extracting the trajectory
 
+Here is the notebook performing the normalization
+
+![image](https://github.com/auranic/CellCycleTrajectory_SegmentModel/blob/main/images/CCT_based_normalization_small.png)
+
+
 ## Simulator of automaton with allometric growth and cell division event
 
 ## Fitting the parameters of kinetic model
