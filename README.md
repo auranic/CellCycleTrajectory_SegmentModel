@@ -18,6 +18,10 @@ Dependencies:
 
 ## Simulator of automaton with allometric growth and cell division event
 
+[Here is the notebook containing simulator of toy model as well as the model of real transcriptomic cell cycle trajectory](https://github.com/auranic/CellCycleTrajectory_SegmentModel/blob/main/notebooks/CellCycle_Modeling_SimpleSwitches.ipynb)
+
+
 ## Fitting the parameters of kinetic model
 
+[Here is the notebook which fits the kinetic model to real cell cycle trajectory](https://github.com/auranic/CellCycleTrajectory_SegmentModel/blob/main/notebooks/CellCycleManuscript_ModelingCCT.ipynb)
 
