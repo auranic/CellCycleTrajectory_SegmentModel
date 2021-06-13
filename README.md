@@ -11,7 +11,7 @@ Dependencies:
 
 ## Normalization of single cell RNASeq dataset and extracting the trajectory
 
-Here is the notebook performing the normalization
+[Here is the notebook performing the normalization](https://github.com/auranic/CellCycleTrajectory_SegmentModel/blob/main/notebooks/CCT_Normalization_Computation.ipynb)
 
 ![image](https://github.com/auranic/CellCycleTrajectory_SegmentModel/blob/main/images/CCT_based_normalization_small.png)
 
