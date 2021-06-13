@@ -13,6 +13,8 @@ Dependencies:
 
 [Here is the notebook performing the normalization](https://github.com/auranic/CellCycleTrajectory_SegmentModel/blob/main/notebooks/CCT_Normalization_Computation.ipynb)
 
+The image below illustrates the basic steps of the CCT-based normalization
+
 ![image](https://github.com/auranic/CellCycleTrajectory_SegmentModel/blob/main/images/CCT_based_normalization_small.png)
 
 
