@@ -13,6 +13,8 @@ Dependencies:
 
 [Here is the notebook performing the normalization](https://github.com/auranic/CellCycleTrajectory_SegmentModel/blob/main/notebooks/CCT_Normalization_Computation.ipynb)
 
+The loom files used in the notebook can be downloaded from [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5017357.svg)](https://doi.org/10.5281/zenodo.5017357)
+
 The image below illustrates the basic steps of the CCT-based normalization
 
 ![image](https://github.com/auranic/CellCycleTrajectory_SegmentModel/blob/main/images/CCT_based_normalization_small.png)
