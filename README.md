@@ -1,6 +1,10 @@
 # Modeling progression of single cell populations through the cell cycle as a sequence of switches
 
-Set of Python notebooks reproducing the procedures in the article 'Modeling progression of single cell populations through the cell cycle as a sequence of switches'
+Set of Python notebooks reproducing the procedures in the article 
+
+Andrei Zinovyev, Michail Sadovsky, Laurence Calzone, Aziz Fouché, Clarice S. Groeneveld, Emmanuel Barillot, Alexander N. Gorban
+[Modeling progression of single cell populations through the cell cycle as a sequence of switches](https://www.biorxiv.org/content/10.1101/2021.06.14.448414v1) 
+bioRxiv 2021.06.14.448414; doi:10.1101/2021.06.14.448414
 
 Dependencies:
 
